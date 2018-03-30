@@ -1,0 +1,135 @@
+body {
+	color:  #4a4a4a;
+}
+
+.nav-item {
+	margin: 10px 16px;
+}
+
+.nav1 {
+	margin-right: 8px;
+	width: 46px;
+	height: 46px;
+}
+
+header {
+	background-color: #F0F8FF;
+	padding-top: 140px;
+	padding-bottom: 100px;
+	  background-image: url("../img/dog-header.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+@media (min-width: 576px) {
+	.header {
+		padding: 200px 0px;
+	}
+}
+
+.modal-body .form-horizontal .col-sm-2,
+.modal-body .form-horizontal .col-sm-10 {
+    width: 100%
+}
+
+.modal-body .form-horizontal .control-label {
+    text-align: left;
+}
+.modal-body .form-horizontal .col-sm-offset-2 {
+    margin-left: 30px;
+}
+
+.firstsection {
+	background-color: white;
+}
+
+.section {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.first-section img {
+  margin-bottom: 35px;
+}
+
+@media (min-width: 768px) {
+  .first-section img {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 992px) {
+  .first-section img {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 576px) {
+h1 {
+  color: #000000;
+  font-size: 36px;
+ }
+}
+
+.firstsection ul {
+  background-color: #F7F9FC;
+  margin-top: 25px;
+  border-radius: 8px;
+  padding: 30px 55px;
+}
+
+@media (min-width: 576px) {
+   .section {
+   	padding: 100px 0px;
+   }
+}
+
+.second-section {
+	background-color: #fbfbfb;
+}
+
+.imgscd {
+	height: 75px;
+	width: 75px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+.imgscdscd {
+	color: #9DA2A6;
+}
+
+third-section {
+  background-color: white;
+}
+
+.third-section img {
+  margin-top: 35px;
+}
+
+@media (min-width: 768px) {
+  .third-section img {
+    margin-top: 0;
+  }
+}
+
+.fourth-section {
+  background-size: 192px 192px;
+  background-color: #F0F8FF;
+  background-repeat: repeat;
+  background-image: url("../img/dogs-pattern.png");
+}
+
+footer {
+  background-color: white;
+  padding: 35px 0px;
+}
+
+.footer1 {
+  height: 22px;
+  margin-bottom: 3px;
+  width: 22px;
+}
+
